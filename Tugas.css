@@ -1,0 +1,21 @@
+body{
+  margin:0px;
+  padding:0px;
+  background-color:#E3FDFD;
+}
+h1{
+  text-align:center;
+}
+li{
+  font-weight:bolder;
+  text-align:left;
+}
+img{
+  width:250px;
+  height:250px;
+  position:relative;
+  left:115px;
+}
+ol{
+  
+}
